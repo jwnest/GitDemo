@@ -10,8 +10,10 @@
 <body>
 Hello World!!
 
-This demo is for Test Git. Just for testing.
+This demo is for Test Git. Just for testing. 
 
-Time is <%=new Date()%>.
+Current Time is <%=new Date()%>.
+
+This update in Branch 1.
 </body>
 </html>
