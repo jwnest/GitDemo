@@ -10,6 +10,8 @@
 <body>
 Hello World!!
 
+This demo is for Test Git. Just for testing.
+
 Time is <%=new Date()%>.
 </body>
 </html>
