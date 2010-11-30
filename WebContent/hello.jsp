@@ -14,7 +14,7 @@ This demo is for Test Git. Just for testing.
 
 Current Time is <%=new Date()%>.
 
-This is stable version.
+This branch is for dev.
 
 
 </body>
