@@ -17,7 +17,5 @@ Current Time is <%=new Date()%>.
 This is stable version.
 
 
-
-This is stable version.
 </body>
 </html>
