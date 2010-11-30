@@ -14,7 +14,11 @@ This demo is for Test Git. Just for testing.
 
 Current Time is <%=new Date()%>.
 
-This update in Branch 1.
+This update in Branch 2.
+
+This update in Branch 2-1.
+
+This update is for remote Branch.
 
 This is stable version.
 </body>
